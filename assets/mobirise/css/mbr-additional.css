@@ -1,9 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -481,12 +478,15 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-1 .mbr-section-title {
+#slider-9 H2 {
   color: #faaf40;
-  font-family: 'Oxygen', sans-serif;
+  font-size: 60px;
+  text-align: right;
 }
-#header1-1 .mbr-section-title SPAN {
-  font-family: 'Oxygen', sans-serif;
+#slider-9 I {
+  color: #cccccc;
+}
+#slider-9 SPAN {
   text-align: center;
 }
 #msg-box8-4 .mbr-section-title,
