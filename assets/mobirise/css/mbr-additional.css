@@ -480,7 +480,7 @@ h6,
 }
 #slider-9 H2 {
   color: #faaf40;
-  font-size: 60px;
+  font-size: 48px;
   text-align: right;
 }
 #slider-9 I {
@@ -495,6 +495,12 @@ h6,
 }
 #msg-box8-4 .mbr-section-title {
   color: #f3c649;
+}
+#form1-c .form-control-label {
+  color: #232323;
+}
+#contacts1-b STRONG {
+  text-align: center;
 }
 #social-buttons2-7 .mbr-section-title,
 #social-buttons2-7 .btn-social {

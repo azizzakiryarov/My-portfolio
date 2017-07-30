@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"file:///Users/azizzakiryarov/Documents/workspace-web/My%20blogg/index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZIZZAKIRYAROV</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUTORIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/java/\">Java</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/junit/\">Junit</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/sql/default.asp\">SQL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vogella.com/tutorials/REST/article.html\">JAX-RS&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/js/\">JavaScript<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-b\" aria-expanded=\"false\">CONTACTS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
         },
         {
           "_tags": [
@@ -150,7 +150,7 @@
                 "overlayOpacity": "0.6",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Welcome to my portfolio<br><span style=\"line-height: 1.1;\"><br></span><br><br><br><span style=\"line-height: 1.1;\">created by&nbsp;</span><span style=\"line-height: 1.1;\"><br></span>Aziz Zakiryarov",
+                "title": "Welcome to my portfolio<br><br><span style=\"line-height: 1.1;\"><br></span><br><br><br><span style=\"line-height: 1.1;\">created by&nbsp;</span><span style=\"line-height: 1.1;\"><br></span>Aziz Zakiryarov",
                 "showText": true,
                 "text": "",
                 "showButtons": false,
@@ -208,7 +208,7 @@
           "_styles": {
             "H2": {
               "color": "#faaf40",
-              "font-size": "60px",
+              "font-size": "48px",
               "text-align": "right"
             },
             "I": {
@@ -286,7 +286,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x379.jpg",
+              "src": "@PROJECT_PATH@/assets/images/java-100432255-primary-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -302,7 +302,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Java_(programming_language)\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/database-600x450.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -318,7 +318,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/SQL\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/no-bugs-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -334,7 +334,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://sv.wikipedia.org/wiki/JUnit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cloudkit-600x466.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -350,7 +350,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Representational_state_transfer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x401.jpg",
+              "src": "@PROJECT_PATH@/assets/images/android-600x599.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -366,7 +366,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Android_(operating_system)\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/js-600x597.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -523,6 +523,105 @@
           "title": "MY PROJECTS &nbsp; ---&gt;"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Here you can send me message",
+          "form": {
+            "action": "zakiryarov@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME<br></a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "googlegroups",
+              "family": "socicon",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n13731 Västerhaninge<br>\nStockholm, Sweden",
+          "text2": "<strong>Contacts</strong><br>\nEmail: zakiryarov@hotmail.com<br>\nPhone: +46 70 821 11 83<br>",
+          "text3": "",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -538,7 +637,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1200.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
