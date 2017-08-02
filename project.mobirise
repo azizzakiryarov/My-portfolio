@@ -15,9 +15,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -60,13 +60,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#131313"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#252424!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2d2c2c"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,7 +95,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2d2c2c",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZIZZAKIRYAROV</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://yhc3l.se/\">YHC3L website</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUTORIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/java/\">Java</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/junit/\">Junit</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/sql/default.asp\">SQL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vogella.com/tutorials/REST/article.html\">JAX-RS&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/js/\">JavaScript<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-b\" aria-expanded=\"false\">CONTACTS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://yhc3l.se/\">YHC3L website</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUTORIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/java/\">Java</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/junit/\">Junit</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/sql/default.asp\">SQL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vogella.com/tutorials/REST/article.html\">JAX-RS&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/js/\">JavaScript<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#contacts1-b\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">DOWNLOAD<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.eclipse.org/downloads/eclipse-packages/\" aria-expanded=\"true\">Eclipse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.sequelpro.com/\">SequelPro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://developer.android.com/studio/index.html\">Android Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.getpostman.com/\">Postman</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.sublimetext.com/3\">Sublime Text3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://brackets.io/\">Brackets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://developer.apple.com/xcode/\">Xcode</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-b\" aria-expanded=\"false\">CONTACTS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
         },
         {
           "_tags": [
@@ -139,13 +139,15 @@
             "H2": {
               "color": "#faaf40",
               "font-size": "48px",
-              "text-align": "right"
+              "text-align": "right",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "I": {
               "color": "#cccccc"
             },
             "SPAN": {
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_params": {
@@ -163,7 +165,7 @@
                 "overlayOpacity": "0.6",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Welcome to my portfolio<br><br><span style=\"line-height: 1.1;\"><br></span><br><br><br><span style=\"line-height: 1.1;\">created by&nbsp;</span><span style=\"line-height: 1.1;\"><br></span>Aziz Zakiryarov",
+                "title": "Welcome to my portfolio<br><br><span style=\"line-height: 1.1;\"><br></span><br><br><br><br><span style=\"line-height: 1.1;\">&nbsp; created by</span><span style=\"line-height: 1.1;\"><br></span>Aziz Zakiryarov",
                 "showText": true,
                 "text": "",
                 "showButtons": false,
@@ -518,9 +520,9 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/azizzakiryarov\" data-toolbar=\"-mbrBtnMove\">My GitHub</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/azizzakiryarov\" data-toolbar=\"-mbrBtnMove\">GitHub</a>",
           "text": "",
-          "title": "MY PROJECTS &nbsp; ---&gt;"
+          "title": "&nbsp;MY PROJECTS &nbsp;&nbsp;"
         },
         {
           "_tags": [
@@ -537,11 +539,11 @@
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -592,10 +594,10 @@
           "_anchor": "contacts1-b",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1126.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "overlay": true,
@@ -633,8 +635,8 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-7",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1200.jpg",
