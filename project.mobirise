@@ -79,7 +79,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#faaf40!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -128,13 +128,26 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZIZZAKIRYAROV</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUTORIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/java/\">Java</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/junit/\">Junit</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/sql/default.asp\">SQL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vogella.com/tutorials/REST/article.html\">JAX-RS&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/js/\">JavaScript<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-b\" aria-expanded=\"false\">CONTACTS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://yhc3l.se/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">YHC3L</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://github.com/yhc3l-java-1618\">GitHub YHC3l</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://yhc3l.se/\">YHC3L website</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUTORIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/java/\">Java</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.tutorialspoint.com/junit/\">Junit</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/sql/default.asp\">SQL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vogella.com/tutorials/REST/article.html\">JAX-RS&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.w3schools.com/js/\">JavaScript<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-b\" aria-expanded=\"false\">CONTACTS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">KONTAKT</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#faaf40",
+              "font-size": "48px",
+              "text-align": "right"
+            },
+            "I": {
+              "color": "#cccccc"
+            },
+            "SPAN": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -204,20 +217,7 @@
             "showBullets": true
           },
           "_anchor": "slider-9",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "color": "#faaf40",
-              "font-size": "48px",
-              "text-align": "right"
-            },
-            "I": {
-              "color": "#cccccc"
-            },
-            "SPAN": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -527,6 +527,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-c",
           "_params": {
             "labelsColor": "#232323",
@@ -572,18 +577,18 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME<br></a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME<br></a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts1-b",
           "_params": {
             "paddingTop": 3,
@@ -614,12 +619,7 @@
           },
           "text1": "<strong>Address</strong><br>\n13731 Västerhaninge<br>\nStockholm, Sweden",
           "text2": "<strong>Contacts</strong><br>\nEmail: zakiryarov@hotmail.com<br>\nPhone: +46 70 821 11 83<br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "text-align": "center"
-            }
-          }
+          "text3": ""
         },
         {
           "_styles": {
